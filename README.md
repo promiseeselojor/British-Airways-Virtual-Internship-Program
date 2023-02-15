@@ -1,6 +1,6 @@
 # British Airways Data Science Virtual Internship Program
 
-This GitHub repository contains a project focused on scraping review data from the web and analyzing it to uncover insights about an airline. The data was collected from the website Skytrax and was cleaned and prepared for analysis.
+This GitHub repository contains a project focused on scraping review data from the web and analyzing it to uncover insights about British Airways airline. The data was collected from the website Skytrax and was cleaned and prepared for analysis.
 
 The analysis includes topic modeling, sentiment analysis, and wordclouds. The results of the analysis were summarized in a single PowerPoint slide, including visualizations and metrics to provide key points.
 
